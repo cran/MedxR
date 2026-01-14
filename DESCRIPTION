@@ -1,7 +1,7 @@
 Package: MedxR
 Type: Package
 Title: Access Drug Regulatory Data via FDA and Health Canada APIs
-Version: 0.1.0
+Version: 0.1.1
 Maintainer: Renzo Caceres Rossi <arenzocaceresrossi@gmail.com>
 Description: Provides functions to access drug regulatory data from public RESTful APIs 
     including the 'FDA Open API' and the 'Health Canada Drug Product Database API', 
@@ -38,8 +38,8 @@ RoxygenNote: 7.3.2
 Config/testthat/edition: 3
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2025-10-11 23:23:55 UTC; Renzo
+Packaged: 2026-01-14 09:10:36 UTC; Renzo
 Author: Renzo Caceres Rossi [aut, cre] (ORCID:
     <https://orcid.org/0009-0005-0744-854X>)
 Repository: CRAN
-Date/Publication: 2025-10-16 18:30:13 UTC
+Date/Publication: 2026-01-14 09:30:02 UTC
